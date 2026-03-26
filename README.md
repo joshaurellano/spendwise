@@ -1,7 +1,8 @@
-📱SpendWise - Expense Tracker App
+# 📱SpendWise 
+## Expense Tracker App
 A Flutter-based mobile expense tracking application that uses SQLite for persistent local storage and Provider for state management.
 
-🚀 Features
+## 🚀 Features
 
 Add, edit, and delete expenses
 Categorize expenses (Food, Transport, Entertainment, Shopping, Others)
@@ -10,7 +11,7 @@ Total spending summary
 Data persists locally using SQLite
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 👉 Flutter
 👉 SQLite
 
@@ -28,7 +29,7 @@ yamldependencies:
 ---
 
 ## 🗂️ Project Structure
-```
+
 lib/
 ├── main.dart                         # App entry point, Provider setup
 ├── models/
@@ -42,6 +43,7 @@ lib/
     ├── all_expenses_page.dart         # All expenses with filter
     └── add_expense_page.dart          # Add and edit expense form
 
+```
 ▶️ Getting Started
 Prerequisites
 
